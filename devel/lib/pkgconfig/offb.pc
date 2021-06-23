@@ -1,0 +1,8 @@
+prefix=/home/zeel/px4_control_ws/devel
+
+Name: offb
+Description: Description of offb
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

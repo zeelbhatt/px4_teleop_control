@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zeel/px4_control_ws/install/setup.sh
