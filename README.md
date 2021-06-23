@@ -28,6 +28,6 @@ cd <to the workspace>
 rosrun offb keyboard_node
 ```
 
-Terminal-5 : `rosrun teleop_twist_keyboard teleop_twist_keyboard.py'
+Terminal-5 : `rosrun teleop_twist_keyboard teleop_twist_keyboard.py`
 
 
