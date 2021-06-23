@@ -34,6 +34,6 @@ To Run the RTABMAP with this run the following command
 
 Terminal-6 : `roslaunch rtabmap_ros rtabmap.launch rtabmap_args:="--delete_db_on_startrgb_topic:=/camera/rgb/image_raw depth_topic:=/camera/depth/image_raw camera_info_topic:=/camera/rgb/camera_info`
 
-
-
+Move the drone around and collect data.
+rtabmap provides poses.g2o file, poses.txt file, depth images and rgb images.
 
