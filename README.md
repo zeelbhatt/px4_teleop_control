@@ -30,4 +30,10 @@ rosrun offb keyboard_node
 
 Terminal-5 : `rosrun teleop_twist_keyboard teleop_twist_keyboard.py`
 
+To Run the RTABMAP with this run the following command
+
+Terminal-6 : `roslaunch rtabmap_ros rtabmap.launch rtabmap_args:="--delete_db_on_startrgb_topic:=/camera/rgb/image_raw depth_topic:=/camera/depth/image_raw camera_info_topic:=/camera/rgb/camera_info`
+
+
+
 
